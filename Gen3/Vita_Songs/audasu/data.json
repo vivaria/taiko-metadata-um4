@@ -2,7 +2,7 @@
 		"uniqueId":1088,
 		"id":"audasu",
 		"songFileName":"song_audasu",
-		"order":1215,
+		"order":1111,
 		"genreNo":6,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「英雄伝説 閃の軌跡」より",
 			"jpFont": 0,
-			"enText": "From \" The Legend of Heroes: Trails of Cold Steel \"",
+			"enText": "From \" The Legend of Heroes:Trails of Cold Steel \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

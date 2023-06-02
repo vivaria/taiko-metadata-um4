@@ -2,7 +2,7 @@
 		"uniqueId":2036,
 		"id":"gdm3",
 		"songFileName":"song_gdm3",
-		"order":1631,
+		"order":1039,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "劇場版「機動戦士ガンダムII 哀 戦士篇」より",
 			"jpFont": 0,
-			"enText": "From \" Mobile Suit Gundam II: Soldiers of Sorrow \"",
+			"enText": "From \" Mobile Suit Gundam II:Soldiers of Sorrow \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

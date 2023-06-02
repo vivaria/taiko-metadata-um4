@@ -2,7 +2,7 @@
 		"uniqueId":1029,
 		"id":"wii2op",
 		"songFileName":"song_wii2op",
-		"order":2878,
+		"order":1868,
 		"genreNo":7,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「太鼓の達人Wii ドドーンと2代目！」テーマソング",
 			"jpFont": 0,
-			"enText": " \" Taiko no Tatsujin Wii: Dodon~! to Nidaime! \" Theme Song",
+			"enText": " \" Taiko no Tatsujin Wii:Dodon~! to Nidaime! \" Theme Song",
 			"enFont": 1,
 			"krText": "\"태고의 달인 Wii 쿵딱~하고 두번째!\" 테마송",
 			"krFont": 4

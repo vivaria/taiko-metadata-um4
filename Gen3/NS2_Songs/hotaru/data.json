@@ -2,7 +2,7 @@
 		"uniqueId":1643,
 		"id":"hotaru",
 		"songFileName":"song_hotaru",
-		"order":1753,
+		"order":1632,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「NARUTO-ナルト-疾風伝」より",
 			"jpFont": 0,
-			"enText": "From \" Naruto: Shippuden \"",
+			"enText": "From \" Naruto:Shippuden \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

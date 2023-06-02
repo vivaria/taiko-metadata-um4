@@ -2,7 +2,7 @@
 		"uniqueId":893,
 		"id":"wii5op",
 		"songFileName":"song_wii5op",
-		"order":2880,
+		"order":1327,
 		"genreNo":7,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": " ",
 			"jpFont": 0,
-			"enText": "\" Taiko no Tatsujin Wii: Chogouka-Ban \" Theme Song",
+			"enText": "\" Taiko no Tatsujin Wii:Chogouka-Ban \" Theme Song",
 			"enFont": 1,
 			"krText": " ",
 			"krFont": 4

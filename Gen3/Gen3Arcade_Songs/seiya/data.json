@@ -2,7 +2,7 @@
 		"uniqueId":1459,
 		"id":"seiya",
 		"songFileName":"song_seiya",
-		"order":2537,
+		"order":2202,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「聖闘士星矢」より",
 			"jpFont": 0,
-			"enText": "From \" Saint Seiya: Knights of the Zodiac \"",
+			"enText": "From \" Saint Seiya:Knights of the Zodiac \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

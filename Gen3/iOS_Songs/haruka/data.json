@@ -2,7 +2,7 @@
 		"uniqueId":1549,
 		"id":"haruka",
 		"songFileName":"song_haruka",
-		"order":1675,
+		"order":1565,
 		"genreNo":0,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "映画「ROOKIES-卒業-」主題歌",
 			"jpFont": 0,
-			"enText": "\" Rookies: Graduation \" Theme Song",
+			"enText": "\" Rookies:Graduation \" Theme Song",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

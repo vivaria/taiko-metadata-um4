@@ -2,7 +2,7 @@
 		"uniqueId":1302,
 		"id":"fparty",
 		"songFileName":"song_fparty",
-		"order":1560,
+		"order":1413,
 		"genreNo":0,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「映画クレヨンしんちゃん ガチンコ！逆襲のロボとーちゃん」より",
 			"jpFont": 0,
-			"enText": "Kyary Pamyu Pamyu From \" Crayon Shin-chan: Intense Battle! Robo Dad Strikes Back \"",
+			"enText": "Kyary Pamyu Pamyu From \" Crayon Shin-chan:Intense Battle! Robo Dad Strikes Back \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

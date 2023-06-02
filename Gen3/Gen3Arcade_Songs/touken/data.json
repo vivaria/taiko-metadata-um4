@@ -2,7 +2,7 @@
 		"uniqueId":1478,
 		"id":"touken",
 		"songFileName":"song_touken",
-		"order":2650,
+		"order":1548,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「刀剣乱舞-花丸-」より",
 			"jpFont": 0,
-			"enText": "From \" Touken Ranbu: Hanamaru \"",
+			"enText": "From \" Touken Ranbu:Hanamaru \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

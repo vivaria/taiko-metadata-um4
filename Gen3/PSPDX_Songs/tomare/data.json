@@ -2,7 +2,7 @@
 		"uniqueId":1626,
 		"id":"tomare",
 		"songFileName":"song_tomare",
-		"order":2638,
+		"order":2602,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -30,7 +30,7 @@
 		"scoreMania":1002050,
 		"scoreUra":0,
 		"previewPos":40135,
-		"fumenOffsetPos":166	,
+		"fumenOffsetPos":166,
 		"songName": {
 			"text": "止マレ！",
 			"font": 0,

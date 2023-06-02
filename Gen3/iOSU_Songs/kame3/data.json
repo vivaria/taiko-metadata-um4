@@ -2,7 +2,7 @@
 		"uniqueId":1162,
 		"id":"kame3",
 		"songFileName":"song_kame3",
-		"order":1913,
+		"order":1842,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「こちら葛飾区亀有公園前派出所」より",
 			"jpFont": 0,
-			"enText": "From \" KochiKame: Tokyo Beat Cops \"",
+			"enText": "From \" KochiKame:Tokyo Beat Cops \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

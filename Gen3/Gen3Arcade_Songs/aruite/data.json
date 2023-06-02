@@ -2,7 +2,7 @@
 		"uniqueId":1362,
 		"id":"aruite",
 		"songFileName":"song_aruite",
-		"order":1213,
+		"order":1108,
 		"genreNo":0,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "ドラマ「ランナウェイ 〜愛する君のために」より",
 			"jpFont": 0,
-			"enText": "From \" Runaways: For Your Love \"",
+			"enText": "From \" Runaways:For Your Love \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

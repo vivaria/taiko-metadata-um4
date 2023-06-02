@@ -2,7 +2,7 @@
 		"uniqueId":1620,
 		"id":"mgkiss",
 		"songFileName":"song_mgkiss",
-		"order":2106,
+		"order":1932,
 		"genreNo":6,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "龍が如く OF THE END」より",
 			"jpFont": 0,
-			"enText": "From \" Yakuza: Dead Souls \"",
+			"enText": "From \" Yakuza:Dead Souls \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

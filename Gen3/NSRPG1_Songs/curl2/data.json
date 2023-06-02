@@ -2,7 +2,7 @@
 		"uniqueId":1048,
 		"id":"curl2",
 		"songFileName":"song_curl2",
-		"order":1403,
+		"order":1756,
 		"genreNo":3,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -36,7 +36,7 @@
 			"font": 0,
 			"jpText": "カールのうた秋 池のほとり篇",
 			"jpFont": 0,
-			"enText": "Karl no Uta: Autumn Pondside Version",
+			"enText": "Karl no Uta:Autumn Pondside Version",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

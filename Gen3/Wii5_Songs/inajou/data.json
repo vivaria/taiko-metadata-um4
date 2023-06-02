@@ -2,7 +2,7 @@
 		"uniqueId":1497,
 		"id":"inajou",
 		"songFileName":"song_inajou",
-		"order":1855,
+		"order":1719,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「イナズマイレブンGO クロノ・ストーン」より",
 			"jpFont": 0,
-			"enText": "From \" Inazuma Eleven GO 2: Chrono Stone \"",
+			"enText": "From \" Inazuma Eleven GO 2:Chrono Stone \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

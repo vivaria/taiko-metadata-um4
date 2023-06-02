@@ -2,7 +2,7 @@
 		"uniqueId":1113,
 		"id":"grumin",
 		"songFileName":"song_grumin",
-		"order":1642,
+		"order":1749,
 		"genreNo":6,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「ぐるみん」より",
 			"jpFont": 0,
-			"enText": "From \" Gurumin: A Monstrous Adventure \"",
+			"enText": "From \" Gurumin:A Monstrous Adventure \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

@@ -2,7 +2,7 @@
 		"uniqueId":630,
 		"id":"sidrai",
 		"songFileName":"song_sidrai",
-		"order":2472,
+		"order":2257,
 		"genreNo":0,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「鋼の錬金術師 FULLMETAL ALCHEMIST」OP曲",
 			"jpFont": 0,
-			"enText": "\" Fullmetal Alchemist: Brotherhood \" Opening Song",
+			"enText": "\" Fullmetal Alchemist:Brotherhood \" Opening Song",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

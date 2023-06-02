@@ -2,7 +2,7 @@
 		"uniqueId":1347,
 		"id":"1psikr",
 		"songFileName":"song_1psikr",
-		"order":1008,
+		"order":1668,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「ワンピース フィルム ゴールド」より",
 			"jpFont": 0,
-			"enText": "From \" ONE PIECE: Gold \"",
+			"enText": "From \" ONE PIECE:Gold \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

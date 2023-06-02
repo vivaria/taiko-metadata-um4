@@ -2,7 +2,7 @@
 		"uniqueId":1296,
 		"id":"bambi",
 		"songFileName":"song_bambi",
-		"order":1228,
+		"order":1135,
 		"genreNo":6,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「もじぴったん大辞典」より",
 			"jpFont": 0,
-			"enText": "From \" Kotoba no Puzzle: Mojipittan \"",
+			"enText": "From \" Kotoba no Puzzle:Mojipittan \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

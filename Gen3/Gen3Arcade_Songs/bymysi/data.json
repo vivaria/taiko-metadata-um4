@@ -2,7 +2,7 @@
 		"uniqueId":1369,
 		"id":"bymysi",
 		"songFileName":"song_bymysi",
-		"order":1294,
+		"order":1186,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「NARUTO‐ナルト‐疾風伝」より",
 			"jpFont": 0,
-			"enText": "From \" Naruto: Shippuden \"",
+			"enText": "From \" Naruto:Shippuden \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

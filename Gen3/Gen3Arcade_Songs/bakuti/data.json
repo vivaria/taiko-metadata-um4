@@ -2,7 +2,7 @@
 		"uniqueId":1364,
 		"id":"bakuti",
 		"songFileName":"song_bakuti",
-		"order":1227,
+		"order":1132,
 		"genreNo":0,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「劇場版 銀魂 新訳紅桜篇」より",
 			"jpFont": 0,
-			"enText": "From \" Gintama: The Movie \"",
+			"enText": "From \" Gintama:The Movie \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

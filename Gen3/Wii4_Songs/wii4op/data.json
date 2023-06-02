@@ -2,7 +2,7 @@
 		"uniqueId":1518,
 		"id":"wii4op",
 		"songFileName":"song_wii4op",
-		"order":2757,
+		"order":2028,
 		"genreNo":7,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "",
 			"jpFont": 0,
-			"enText": "\" Taiko no Tatsujin Wii: Kettei-Ban \" Theme Song",
+			"enText": "\" Taiko no Tatsujin Wii:Kettei-Ban \" Theme Song",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

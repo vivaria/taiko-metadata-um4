@@ -2,7 +2,7 @@
 		"uniqueId":631,
 		"id":"siduso",
 		"songFileName":"song_siduso",
-		"order":2473,
+		"order":2681,
 		"genreNo":0,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「鋼の錬金術師FULLMETAL ALCHEMIST」より",
 			"jpFont": 0,
-			"enText": "From \" Fullmetal Alchemist: Brotherhood \"",
+			"enText": "From \" Fullmetal Alchemist:Brotherhood \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

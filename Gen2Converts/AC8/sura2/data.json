@@ -2,7 +2,7 @@
 		"uniqueId":1875,
 		"id":"sura2",
 		"songFileName":"song_sura2",
-		"order":2620,
+		"order":1359,
 		"genreNo":6,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -36,7 +36,7 @@
 			"font": 0,
 			"jpText": "スライムもりもり ドラゴンクエスト2",
 			"jpFont": 0,
-			"enText": "Dragon Quest Heroes: Rocket Slime",
+			"enText": "Dragon Quest Heroes:Rocket Slime",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

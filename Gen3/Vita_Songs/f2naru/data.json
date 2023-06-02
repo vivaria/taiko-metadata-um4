@@ -2,7 +2,7 @@
 		"uniqueId":1102,
 		"id":"f2naru",
 		"songFileName":"song_f2naru",
-		"order":1573,
+		"order":2533,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「すべてがFになる THE PERFECT INSIDER」より",
 			"jpFont": 0,
-			"enText": "From \" Subete ga F ni Naru: THE PERFECT INSIDER \"",
+			"enText": "From \" Subete ga F ni Naru:THE PERFECT INSIDER \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

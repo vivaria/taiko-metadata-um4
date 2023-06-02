@@ -2,7 +2,7 @@
 		"uniqueId":1642,
 		"id":"hitouc",
 		"songFileName":"song_hitouc",
-		"order":1726,
+		"order":1600,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「ポケットモンスター ダイヤモンド・パール」より",
 			"jpFont": 0,
-			"enText": "From \" Pokémon the Series: Diamond and Pearl \"",
+			"enText": "From \" Pokémon the Series:Diamond and Pearl \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

@@ -2,7 +2,7 @@
 		"uniqueId":1515,
 		"id":"pkmn11",
 		"songFileName":"song_pkmn11",
-		"order":2298,
+		"order":2218,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「ポケットモンスター ベストウイッシュ」",
 			"jpFont": 0,
-			"enText": "From \" Pokémon the Series: Black and White \"",
+			"enText": "From \" Pokémon the Series:Black and White \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

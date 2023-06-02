@@ -2,7 +2,7 @@
 		"uniqueId":1089,
 		"id":"audg14",
 		"songFileName":"song_audg14",
-		"order":1216,
+		"order":1491,
 		"genreNo":6,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「英雄伝説 空の軌跡SC」より",
 			"jpFont": 0,
-			"enText": "From \" The Legend of Heroes: Trails in the Sky \"",
+			"enText": "From \" The Legend of Heroes:Trails in the Sky \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

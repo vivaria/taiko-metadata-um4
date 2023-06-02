@@ -2,7 +2,7 @@
 		"uniqueId":847,
 		"id":"cs4op",
 		"songFileName":"song_cs4op",
-		"order":1420,
+		"order":2142,
 		"genreNo":7,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「太鼓の達人 あつまれ！祭りだ!!四代目」テーマソング",
 			"jpFont": 0,
-			"enText": " \" Taiko no Tatsujin: Atsumare! Matsuri da!!Yondaime \" Theme Song",
+			"enText": " \" Taiko no Tatsujin:Atsumare! Matsuri da!!Yondaime \" Theme Song",
 			"enFont": 1,
 			"krText": "\"태고의 달인 모여라 축제다!! 네번째!\" 테마송",
 			"krFont": 4

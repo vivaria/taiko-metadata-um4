@@ -2,7 +2,7 @@
 		"uniqueId":1520,
 		"id":"evam20",
 		"songFileName":"song_evam20",
-		"order":1526,
+		"order":1137,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「ヱヴァンゲリヲン新劇場版:序」より",
 			"jpFont": 0,
-			"enText": "From \" Evangelion: 1.0 You Are (Not) Alone \"",
+			"enText": "From \" Evangelion:1.0 You Are (Not) Alone \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

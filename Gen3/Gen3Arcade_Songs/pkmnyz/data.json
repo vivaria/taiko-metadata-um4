@@ -2,7 +2,7 @@
 		"uniqueId":1446,
 		"id":"pkmnyz",
 		"songFileName":"song_pkmnyz",
-		"order":2389,
+		"order":2762,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「ポケットモンスター ベストウィッシュ シーズン2」より",
 			"jpFont": 0,
-			"enText": "From \"Pokémon the Series: Black & White \"",
+			"enText": "From \"Pokémon the Series:Black & White \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

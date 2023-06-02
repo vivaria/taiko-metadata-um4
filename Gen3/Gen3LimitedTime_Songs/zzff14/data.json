@@ -2,7 +2,7 @@
 		"uniqueId":1905,
 		"id":"zzff14",
 		"songFileName":"song_zzff14",
-		"order":2832,
+		"order":2570,
 		"genreNo":6,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「ファイナルファンタジーXIV 新生エオルゼア」より",
 			"jpFont": 0,
-			"enText": "From \" Final Fantasy XIV: A Realm Reborn \"",
+			"enText": "From \" Final Fantasy XIV:A Realm Reborn \"",
 			"enFont": 1,
 			"krText": "",
 			"krFont": 4

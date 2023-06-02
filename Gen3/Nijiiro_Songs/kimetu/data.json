@@ -2,7 +2,7 @@
 		"uniqueId":372,
 		"id":"kimetu",
 		"songFileName":"song_kimetu",
-		"order":1994,
+		"order":1534,
 		"genreNo":1,
 		"branchEasy":false,
 		"branchNormal":false,
@@ -46,7 +46,7 @@
 			"font": 0,
 			"jpText": "「鬼滅の刃」より",
 			"jpFont": 0,
-			"enText": "From \" Demon Slayer: Kimetsu no Yaiba \"",
+			"enText": "From \" Demon Slayer:Kimetsu no Yaiba \"",
 			"enFont": 1,
 			"krText": "\"귀멸의 칼날\" OP",
 			"krFont": 4
